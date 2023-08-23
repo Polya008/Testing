@@ -1,4 +1,4 @@
-import isValidCard from './validators.js';
+import isValidCard from './validator.js';
 import luhnAlg from './luhnAlg.js';
 
 export default function widget() {

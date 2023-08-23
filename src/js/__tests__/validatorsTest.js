@@ -1,4 +1,4 @@
-import isValidCard from '../validators.js';
+import isValidCard from '../validator.js';
 
 test.each([
   ['true for VISA', '4111111111111111', 'visa'],

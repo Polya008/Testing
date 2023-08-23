@@ -5806,7 +5806,7 @@ webpack-dev-server@^4.15.1:
     webpack-dev-middleware "^5.3.1"
     ws "^8.13.0"
 
-webpack-merge@^5.7.3:
+webpack-merge@^5.7.3, webpack-merge@^5.9.0:
   version "5.9.0"
   resolved "https://registry.npmjs.org/webpack-merge/-/webpack-merge-5.9.0.tgz"
   integrity sha512-6NbRQw4+Sy50vYNTw7EyOn41OZItPiXB8GNv3INSoe3PSFaHJEz3SHTrYVaRm2LilNGnFUzh0FAwqPEmU/CwDg==

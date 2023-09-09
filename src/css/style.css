@@ -1,4 +1,4 @@
-  .container{
+  .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -18,6 +18,7 @@
     flex-wrap: nowrap;
     text-align: center;
   }
+  
   .card {
     width: 50px;
     height: 31px;
@@ -27,6 +28,7 @@
     border: 1px solid rgb(102, 22, 22);
     border-radius: 5px;
   }
+
 .visa {
 background-image:url(../img/visa_curved.png);
 }
@@ -36,16 +38,16 @@ background-image:url(../img/visa_curved.png);
     }
 
 .mir {
-        background-image:url(../img/mir.png);
-        }
+    background-image:url(../img/mir.png);
+    }
 
 .discover {
-            background-image:url(../img/discover.png);
-            }
+    background-image:url(../img/discover.png);
+    }
 
 .jcb {
-                background-image:url(../img/jcb.png);
-                }
+    background-image:url(../img/jcb.png);
+    }
 
 .input {
     display: inline-block;
@@ -67,7 +69,7 @@ background-image:url(../img/visa_curved.png);
     max-width: 500px;;
 }
 
-.form-validate{
+.form-validate {
     display: block;
     box-sizing: border-box;
     width: 350px;
@@ -81,7 +83,7 @@ background-image:url(../img/visa_curved.png);
     flex-wrap: nowrap
 }
 
- .button-validate{
+ .button-validate {
     background-color: #5cb85c;
     border: 1px solid rgb(245, 241, 241);
     border-radius: 5px;

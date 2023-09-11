@@ -30,23 +30,23 @@
   }
 
 .visa {
-background-image:url(../img/visa_curved.png);
+    background-image:url(../assets/visa_curved.png);
 }
 
 .master {
-    background-image:url(../img/mastercard.png);
+    background-image:url(../assets/mastercard.png);
     }
 
 .mir {
-    background-image:url(../img/mir.png);
+    background-image:url(../assets/mir.png);
     }
 
 .discover {
-    background-image:url(../img/discover.png);
+    background-image:url(../assets/discover.png);
     }
 
 .jcb {
-    background-image:url(../img/jcb.png);
+    background-image:url(../assets/jcb.png);
     }
 
 .input {
